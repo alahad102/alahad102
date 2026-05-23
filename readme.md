@@ -78,6 +78,6 @@ Applying machine learning to enhance additive manufacturing research.
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research-green?style=flat&logo=google-scholar)](YOUR_GOOGLE_SCHOLAR_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/al-ahad-36664b198 ))
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research-green?style=flat&logo=google-scholar)]([YOUR_GOOGLE_SCHOLAR_URL](https://scholar.google.com/citations?user=ci01z7sAAAAJ&hl=en))
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:abdullahalahadkhan102@gmail.com)
